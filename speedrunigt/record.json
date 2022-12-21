@@ -1,0 +1,577 @@
+{
+  "mc_version": "1.16.1",
+  "speedrunigt_version": "13.1+1.16.1",
+  "category": "ANY",
+  "run_type": "random_seed",
+  "is_completed": false,
+  "is_coop": false,
+  "is_hardcore": false,
+  "is_legacy_igt": false,
+  "world_name": "boat enter practice map _) _) _)",
+  "date": 1671584446740,
+  "retimed_igt": 3956275,
+  "final_igt": 3956275,
+  "final_rta": 5758046,
+  "open_lan": null,
+  "timelines": [],
+  "advancements": {
+    "minecraft:recipes/misc/diamond": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_diamond_block": {
+          "igt": 57243,
+          "rta": 89887
+        },
+        "has_the_recipe": {
+          "igt": 57243,
+          "rta": 89888
+        }
+      },
+      "igt": 57243,
+      "rta": 89891
+    },
+    "minecraft:recipes/building_blocks/oak_planks": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_logs": {
+          "igt": 238143,
+          "rta": 282775
+        },
+        "has_the_recipe": {
+          "igt": 238143,
+          "rta": 282775
+        }
+      },
+      "igt": 238143,
+      "rta": 282798
+    },
+    "minecraft:recipes/building_blocks/oak_wood": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_log": {
+          "igt": 238143,
+          "rta": 282776
+        },
+        "has_the_recipe": {
+          "igt": 238143,
+          "rta": 282776
+        }
+      },
+      "igt": 238143,
+      "rta": 282798
+    },
+    "minecraft:recipes/misc/charcoal": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_log": {
+          "igt": 238143,
+          "rta": 282776
+        },
+        "has_the_recipe": {
+          "igt": 238143,
+          "rta": 282776
+        }
+      },
+      "igt": 238143,
+      "rta": 282798
+    },
+    "minecraft:recipes/decorations/green_glazed_terracotta": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_green_terracotta": {
+          "igt": 417443,
+          "rta": 1001691
+        },
+        "has_the_recipe": {
+          "igt": 417443,
+          "rta": 1001691
+        }
+      },
+      "igt": 417443,
+      "rta": 1001747
+    },
+    "minecraft:recipes/building_blocks/birch_planks": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_logs": {
+          "igt": 554943,
+          "rta": 1139237
+        },
+        "has_the_recipe": {
+          "igt": 554943,
+          "rta": 1139237
+        }
+      },
+      "igt": 554993,
+      "rta": 1139296
+    },
+    "minecraft:recipes/redstone/redstone_lamp": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_glowstone": {
+          "igt": 849243,
+          "rta": 1436422
+        },
+        "has_the_recipe": {
+          "igt": 849243,
+          "rta": 1436422
+        }
+      },
+      "igt": 849243,
+      "rta": 1436449
+    },
+    "minecraft:recipes/building_blocks/spruce_planks": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_logs": {
+          "igt": 960243,
+          "rta": 1547922
+        },
+        "has_the_recipe": {
+          "igt": 960243,
+          "rta": 1547922
+        }
+      },
+      "igt": 960293,
+      "rta": 1547947
+    },
+    "minecraft:recipes/building_blocks/spruce_wood": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_log": {
+          "igt": 960243,
+          "rta": 1547921
+        },
+        "has_the_recipe": {
+          "igt": 960243,
+          "rta": 1547921
+        }
+      },
+      "igt": 960293,
+      "rta": 1547947
+    },
+    "minecraft:story/root": {
+      "complete": true,
+      "is_advancement": true,
+      "criteria": {
+        "crafting_table": {
+          "igt": 1015443,
+          "rta": 1603104
+        }
+      },
+      "igt": 1015493,
+      "rta": 1603144
+    },
+    "minecraft:recipes/misc/map": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_compass": {
+          "igt": 1224343,
+          "rta": 1945486
+        },
+        "has_the_recipe": {
+          "igt": 1224343,
+          "rta": 1945486
+        }
+      },
+      "igt": 1224393,
+      "rta": 1945541
+    },
+    "minecraft:recipes/redstone/stone_pressure_plate": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340937
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340938
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_slab": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340941
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340941
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340941
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340941
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340942
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340942
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/decorations/stonecutter": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340942
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340942
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_stairs": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340942
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340942
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340942
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340942
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_bricks": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340940
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340940
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/redstone/stone_button": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340943
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340943
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340939
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340939
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340941
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340941
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/smooth_stone": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340942
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340942
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340941
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340941
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_stone": {
+          "igt": 2289126,
+          "rta": 3340943
+        },
+        "has_the_recipe": {
+          "igt": 2289126,
+          "rta": 3340943
+        }
+      },
+      "igt": 2289126,
+      "rta": 3340980
+    },
+    "minecraft:recipes/transportation/oak_boat": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_the_recipe": {
+          "igt": 2372676,
+          "rta": 3424522
+        },
+        "in_water": {
+          "igt": 2372676,
+          "rta": 3424522
+        }
+      },
+      "igt": 2372726,
+      "rta": 3424581
+    },
+    "minecraft:recipes/transportation/dark_oak_boat": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_the_recipe": {
+          "igt": 2372676,
+          "rta": 3424522
+        },
+        "in_water": {
+          "igt": 2372676,
+          "rta": 3424522
+        }
+      },
+      "igt": 2372726,
+      "rta": 3424581
+    },
+    "minecraft:recipes/transportation/spruce_boat": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_the_recipe": {
+          "igt": 2372676,
+          "rta": 3424520
+        },
+        "in_water": {
+          "igt": 2372676,
+          "rta": 3424520
+        }
+      },
+      "igt": 2372726,
+      "rta": 3424581
+    },
+    "minecraft:recipes/transportation/birch_boat": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_the_recipe": {
+          "igt": 2372676,
+          "rta": 3424521
+        },
+        "in_water": {
+          "igt": 2372676,
+          "rta": 3424521
+        }
+      },
+      "igt": 2372726,
+      "rta": 3424581
+    },
+    "minecraft:recipes/transportation/jungle_boat": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_the_recipe": {
+          "igt": 2372676,
+          "rta": 3424522
+        },
+        "in_water": {
+          "igt": 2372676,
+          "rta": 3424522
+        }
+      },
+      "igt": 2372726,
+      "rta": 3424581
+    },
+    "minecraft:recipes/transportation/acacia_boat": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_the_recipe": {
+          "igt": 2372676,
+          "rta": 3424522
+        },
+        "in_water": {
+          "igt": 2372676,
+          "rta": 3424522
+        }
+      },
+      "igt": 2372726,
+      "rta": 3424581
+    }
+  },
+  "stats": {
+    "a521575e-6945-46f8-8477-459aa82e1b5a": {
+      "stats": {
+        "minecraft:dropped": {
+          "minecraft:light_blue_concrete": 1
+        },
+        "minecraft:custom": {
+          "minecraft:time_since_rest": 53,
+          "minecraft:sprint_one_cm": 28360,
+          "minecraft:damage_taken": 10,
+          "minecraft:walk_one_cm": 65852,
+          "minecraft:drop": 1,
+          "minecraft:swim_one_cm": 321,
+          "minecraft:fly_one_cm": 132590,
+          "minecraft:open_chest": 55,
+          "minecraft:play_one_minute": 79294,
+          "minecraft:crouch_one_cm": 1887,
+          "minecraft:deaths": 17,
+          "minecraft:sneak_time": 3335,
+          "minecraft:walk_under_water_one_cm": 2750,
+          "minecraft:boat_one_cm": 3441,
+          "minecraft:jump": 264,
+          "minecraft:time_since_death": 53,
+          "minecraft:leave_game": 2,
+          "minecraft:walk_on_water_one_cm": 2222,
+          "minecraft:fall_one_cm": 582
+        },
+        "minecraft:picked_up": {
+          "minecraft:torch": 2,
+          "minecraft:compass": 1,
+          "minecraft:wheat_seeds": 1,
+          "minecraft:oak_boat": 2
+        },
+        "minecraft:used": {
+          "minecraft:oak_fence": 4,
+          "minecraft:green_concrete": 130,
+          "minecraft:birch_fence_gate": 2,
+          "minecraft:grass_block": 183,
+          "minecraft:birch_leaves": 70,
+          "minecraft:carrot_on_a_stick": 15,
+          "minecraft:oak_button": 1,
+          "minecraft:barrier": 62,
+          "minecraft:birch_wood": 18,
+          "minecraft:chest": 1,
+          "minecraft:brown_concrete": 3,
+          "minecraft:diorite_wall": 3,
+          "minecraft:oak_leaves": 106,
+          "minecraft:green_carpet": 1,
+          "minecraft:torch": 8,
+          "minecraft:diamond_block": 1,
+          "minecraft:glowstone": 19,
+          "minecraft:light_blue_concrete": 110,
+          "minecraft:crafting_table": 2,
+          "minecraft:spruce_stairs": 3,
+          "minecraft:cobblestone_wall": 3,
+          "minecraft:yellow_concrete": 10,
+          "minecraft:oak_wood": 45,
+          "minecraft:oak_boat": 81,
+          "minecraft:spruce_log": 3,
+          "minecraft:oak_fence_gate": 3,
+          "minecraft:fern": 7
+        }
+      },
+      "DataVersion": 2567
+    }
+  }
+}
